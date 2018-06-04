@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is Intelligence Enough"
+title:  "111
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/6.jpg
